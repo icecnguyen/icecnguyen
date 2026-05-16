@@ -33,13 +33,13 @@ Welcome to my GitHub profile! I am passionate about **Web/App Development** and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icecnguyen&show_icons=true&theme=radical" alt="icecnguyen's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecnguyen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icecnguyen&show_icons=true&theme=radical" alt="icecnguyen's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecnguyen&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 📫 Let's Connect
 
-* 📧 **Email:** [quannqhy2k6@gmail.com](mailto:quannqhy2k6@gmail.com)
+* 📧 **Email:** [icecnguyen@gmail.com](mailto:icecnguyen@gmail.com)
 * 🌐 **Website:** [AMD System](https://amdsystem.site)
