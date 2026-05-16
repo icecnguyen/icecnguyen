@@ -26,8 +26,7 @@ Welcome to my GitHub profile! I am passionate about **Web/App Development** and 
 
 ## 🚀 Projects
 
-* **Safari Reborn** 🚧 *(Work in Progress)*
-* **AMD System Utilities** 🛠️ *(System optimization & utility tool)*
+* **Safari Reborn** 🚧 *(Archived)*
 
 ---
 
