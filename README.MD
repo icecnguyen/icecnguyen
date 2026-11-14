@@ -2,9 +2,9 @@
 
 I'm a developer from Vietnam who likes building things, breaking them, and figuring out why they broke.
 
-Most of the time I'm working with **C#**, **.NET**, **Python**, and web technologies. I also enjoy experimenting with game-related projects and AI-assisted development.
+I mostly work with **C#**, **.NET**, **Python**, and web technologies. I also spend time experimenting with game-related projects and other things that catch my interest.
 
-Currently, I'm mostly interested in **backend development, game/server development, and low-level programming**.
+Currently interested in **backend development, game/server development, and low-level programming**.
 
 ## Tech I Use
 
@@ -33,15 +33,15 @@ Currently, I'm mostly interested in **backend development, game/server developme
 
 A Minecraft server implementation written in C# and .NET.
 
-The project is built from scratch with a focus on learning how Minecraft's protocol, world generation, networking and server-side systems work.
+Built from scratch as a way to learn more about Minecraft's protocol, world generation, networking, and how the server works internally.
 
-I'm also experimenting with modern .NET features and multi-threaded systems.
+Also a place to experiment with multithreading and modern .NET features.
 
 ### [ADOFAI-Macro-Internal](https://github.com/icecnguyen/ADOFAI-Macro-Internal)
 
 An internal macro mod for **A Dance of Fire and Ice**, built with C# and UnityModManager.
 
-It includes different roll styles, configurable key limits, timing synchronization and other experiments around automated input.
+It has different roll styles, configurable key limits, timing synchronization, and a few other experiments around automated input.
 
 ## Other Stuff
 
@@ -55,8 +55,8 @@ That's part of the fun.
 
 ## Contact
 
-- 📧 Email: **icecnguyen@gmail.com**
-- 🌐 Website: **[AMD System](https://amdsystem.site)**
+- Email: **icecnguyen@gmail.com**
+- Website: **[icecnguyen](https://icecnguyen.us.ci)**
 
 ---
 
